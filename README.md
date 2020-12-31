@@ -15,7 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![Twitter Badge](https://img.shields.io/badge/-@WadkarRishikesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WadkarRishikesh)](https://twitter.com/wadkarrishikesh)
+[![Twitter Badge](https://img.shields.io/badge/-@WadkarRishikesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WadkarRishikesh)](https://twitter.com/wadkarrishikesh) 
+[![Linkedin Badge](https://img.shields.io/badge/-RishikeshWadkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-wadkar-0aa455191/)
+[![Mail Badge](https://img.shields.io/badge/-@rishikesh_9217-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rishikesh_9217/)
+[![Mail Badge](https://img.shields.io/badge/-RishikeshWadkar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rishikeshwadkar9217@gmail.com)
 
 <a href="https://dev.to/rishikeshwadkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishikeshwadkar" height="30" width="40" /></a>
 <a href="https://twitter.com/wadkarrishikesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wadkarrishikesh" height="30" width="40" /></a>
