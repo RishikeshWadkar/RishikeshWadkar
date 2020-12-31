@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WadkarRishikesh)](https://twitter.com/wadkarrishikesh)
+[![Twitter Badge](https://img.shields.io/badge/-@WadkarRishikesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WadkarRishikesh)](https://twitter.com/wadkarrishikesh)
 
 <a href="https://dev.to/rishikeshwadkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishikeshwadkar" height="30" width="40" /></a>
 <a href="https://twitter.com/wadkarrishikesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wadkarrishikesh" height="30" width="40" /></a>
