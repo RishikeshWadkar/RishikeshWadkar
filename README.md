@@ -30,4 +30,4 @@
 
 -------
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshwadkar&show_icons=true&locale=en&layout=compact" alt="rishikeshwadkar" /></p>
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=rishikeshwadkar&count_private=true&theme=tokyonight&hide=contribs,prs)
