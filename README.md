@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshwadkar&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshwadkar" /> </p>
 
-- 🔭 I’m currently working on **Chat App**
-- 🌱 I’m currently learning **Android Development With Kotlin**
+- 🌱 Learning **Android Development With Kotlin**
 - 👨‍💻 All of my projects are available at [https://github.com/RishikeshWadkar](https://github.com/RishikeshWadkar)
 - 💬 Ask me about **Kotlin, C++, Java**
 - 📫 How to reach me **rishikeshwadkar9217@gmail.com**
